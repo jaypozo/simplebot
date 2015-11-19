@@ -1,0 +1,16 @@
+{
+  "name": "simplebot-jay",
+  "version": "1.0.0",
+  "description": "a simple arduino based robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jay Pozo",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.8.41",
+    "keypress": "^0.2.1",
+    "myo": "git+https://git@github.com/stolksdorf/myo.js.git"
+  }
+}
